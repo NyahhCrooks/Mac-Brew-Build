@@ -1,0 +1,26 @@
+#!/usr/bin/env zsh
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Install native apps
+brew tap caskroom/versions
+
+brew cask install atom
+brew cask install caffeine
+brew cask install filezilla
+brew cask install daisydisk
+brew cask install dropbox
+brew cask install firefox
+brew cask install google-chrome
+brew cask install google-drive
+brew cask install hosts
+brew cask install iterm2
+brew cask install slack
+brew cask install screenhero
+brew cask install spotify
+brew cask install soundflower
+brew cask install teamviewer
+brew cask install skype
+brew cask install microsoft-office
+brew cask install adobe-creative-cloud
+brew cask install lastpass
