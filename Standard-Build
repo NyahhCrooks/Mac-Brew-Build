@@ -24,3 +24,5 @@ brew cask install skype
 brew cask install microsoft-office
 brew cask install adobe-creative-cloud
 brew cask install lastpass
+brew cask install google-hangouts
+
